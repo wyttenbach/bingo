@@ -37,7 +37,10 @@ def generateTable(terms, pagebreak = True):
     for i, term in enumerate(ts):
         if i % 5 == 0:
             res += "\t<tr>\n"
-        res += "\t\t<td>" + term + "</td>\n"
+        if i == 12:
+            res += "\t\t<td bgcolor=grey>" + term + "</td>\n"
+        else:
+            res += "\t\t<td bgcolor=lightgrey>" + term + "</td>\n"
         if i % 5 == 4:
             res += "\t</tr>\n"
     res += "</table>\n"
