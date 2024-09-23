@@ -1,24 +1,24 @@
-Bar
-Bartender
-Beer
-Bloody Mary
-Bottle
-Bourbon
-Brandy
-Drink
-Drunk
-Gin
-Honky Tonk
-Jose Cuervo
-Julep
-Malort
-Margarita
-Moonshine
-Numb
-Rum
-Rye
-Scotch
-Vodka
-Whiskey
-Wine
-Wino
+BAR
+BARTENDER
+BEER
+BLOODY MARY
+BOTTLE
+BOURBON
+BRANDY
+DRINK
+DRUNK
+GIN
+HONKY TONK
+JOSE CUERVO
+JULEP
+MALORT
+MARGARITA
+MOONSHINE
+NUMB
+RUM
+RYE
+SCOTCH
+VODKA
+WHISKEY
+WINE
+WINO
