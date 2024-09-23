@@ -23,8 +23,8 @@ head = ("<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org
         "\tbody { font-weight: bold; font-size: 24px; }\n"
         "\ttable { margin: 40px auto; border-spacing: 2px; }\n"
         "\t.newpage { page-break-after:always; }\n"
-        "\ttr { height: 60px; }\n"
-        "\ttd { text-align: center; border: thin black solid; padding: 10px; width: 60px; }\n"
+        "\ttr { height: 160px; }\n"
+        "\ttd { text-align: center; border: thin black solid; padding: 10px; width: 160px; }\n"
         "</style>\n</head>\n<body>\n")
 
 # Generates an HTML table representation of the bingo card for terms
