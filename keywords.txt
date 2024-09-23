@@ -1,0 +1,24 @@
+Bar
+Bartender
+Beer
+Bloody Mary
+Bottle
+Bourbon
+Brandy
+Drink
+Drunk
+Gin
+Honky Tonk
+Jose Cuervo
+Julep
+Malort
+Margarita
+Moonshine
+Numb
+Rum
+Rye
+Scotch
+Vodka
+Whiskey
+Wine
+Wino
