@@ -20,7 +20,7 @@ head = ("<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org
         "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n"
         "<title>Bingo Cards</title>\n"
         "<style type=\"text/css\">\n"
-        "\tbody { font-size: 12px; }\n"
+        "\tbody { font-weight: bold; font-size: 24px; }\n"
         "\ttable { margin: 40px auto; border-spacing: 2px; }\n"
         "\t.newpage { page-break-after:always; }\n"
         "\ttr { height: 60px; }\n"
