@@ -4,8 +4,8 @@ import random, sys
 
 # check for the right # of args
 if len(sys.argv) != 4:
-    print "USAGE: " + sys.argv[0], " [file of terms] [output file] [# of cards]"
-    print "Example: " + sys.argv[0] + " bingo_terms.txt bingo.html 20"
+    print("USAGE: " + sys.argv[0], " [file of terms] [output file] [# of cards]")
+    print("Example: " + sys.argv[0] + " bingo_terms.txt bingo.html 20")
     sys.exit(1)
 
 # read in the bingo terms
@@ -47,7 +47,8 @@ out_file = open(sys.argv[2], 'w')
 out_file.write(head)
 cards = int(sys.argv[3])
 for i in range(cards):
-    random.shuffle(terms)
+#    random.shuffle(terms)
+    terms = sorted(terms, key=lambda x: random.random())
     if i != cards - 1:
         out_file.write(generateTable(terms))
     else:
